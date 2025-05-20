@@ -36,3 +36,16 @@ img {
 button {
   font: inherit;
 }
+
+li {
+  height: 100%;
+}
+
+a {
+  height: 100%;
+}
+
+article {
+  position: relative;
+  height: 100%;
+}
